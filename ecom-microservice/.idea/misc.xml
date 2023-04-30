@@ -9,7 +9,13 @@
         <option value="$PROJECT_DIR$/../gateway-service/pom.xml" />
         <option value="$PROJECT_DIR$/../inventory-service/pom.xml" />
         <option value="$PROJECT_DIR$/../order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../all-what-you-need-micro-services/config-service/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../../all-what-you-need-micro-services/config-service/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
