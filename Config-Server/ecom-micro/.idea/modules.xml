@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../config-service/config-service.iml" filepath="$PROJECT_DIR$/../config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../customer-service/customer-service.iml" filepath="$PROJECT_DIR$/../customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecom-micro.iml" filepath="$PROJECT_DIR$/ecom-micro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/../gateway-service/gateway-service.iml" />
+    </modules>
+  </component>
+</project>
